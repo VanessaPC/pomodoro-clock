@@ -38,7 +38,7 @@ body{
 
 .number-timer {
   font-family: "Electrolize", Helvetica, sans-serif;
-  font-size: 45px;
+  font-size: 45px; 
   font-weight: bold;
   color: var(--black);
   padding-top: 78px;
@@ -74,7 +74,10 @@ button{
   margin: 0 auto;
   text-align: center;
   
-  button{
+  
+}
+
+.control-buttons button {
     background: var(--main-color);
     border: none;
     border-radius: 3px;
@@ -83,11 +86,10 @@ button{
     font-size: 14px;
     padding: 10px 20px;
     transition: background .3s ease-in-out;
-    
-    &:hover{
-      background: var(--main-color-hover);
-    }
-  }
+}
+
+.control-buttons button:hover{
+    background: var(--main-color-hover);
 }
 
 .main-container-controls {
