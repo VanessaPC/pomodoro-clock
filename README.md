@@ -6,7 +6,7 @@ For a quick look at it, without cloning repo, visit this link:
 
 [Codepen showcase](https://codepen.io/Lunnaris/full/QMrBRv/);
 
-###Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
@@ -20,7 +20,7 @@ You will also see any lint errors in the console.
 
 npm test
 
-####Launches the test runner in the interactive watch mode.
+#### Launches the test runner in the interactive watch mode.
 See the section about running tests for more information.
 
 npm run build
@@ -31,7 +31,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.
 Your app is ready to be deployed!
 
-####See the section about deployment for more information.
+#### See the section about deployment for more information.
 
 npm run eject
 
